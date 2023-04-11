@@ -1,0 +1,1 @@
+setInterval(hell0 ,1000)
